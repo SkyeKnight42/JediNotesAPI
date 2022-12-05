@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Fierce\\source\\repos\\JediAPI\\JediAPI\\JediAPI.csproj": {}
+    "C:\\Users\\Fierce\\Documents\\GitHub\\JediNotesAPI\\JediAPI\\JediAPI\\JediAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Fierce\\source\\repos\\JediAPI\\JediAPI\\JediAPI.csproj": {
+    "C:\\Users\\Fierce\\Documents\\GitHub\\JediNotesAPI\\JediAPI\\JediAPI\\JediAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Fierce\\source\\repos\\JediAPI\\JediAPI\\JediAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Fierce\\Documents\\GitHub\\JediNotesAPI\\JediAPI\\JediAPI\\JediAPI.csproj",
         "projectName": "JediAPI",
-        "projectPath": "C:\\Users\\Fierce\\source\\repos\\JediAPI\\JediAPI\\JediAPI.csproj",
+        "projectPath": "C:\\Users\\Fierce\\Documents\\GitHub\\JediNotesAPI\\JediAPI\\JediAPI\\JediAPI.csproj",
         "packagesPath": "C:\\Users\\Fierce\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Fierce\\source\\repos\\JediAPI\\JediAPI\\obj\\",
+        "outputPath": "C:\\Users\\Fierce\\Documents\\GitHub\\JediNotesAPI\\JediAPI\\JediAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Fierce\\AppData\\Roaming\\NuGet\\NuGet.Config",

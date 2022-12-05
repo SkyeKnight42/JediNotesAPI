@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1+j5y4DcR1jWqdCbwqDQ2C1lWmipa2pkTWyK7gCFU+p7HBzdMBvqwWycf9E+AIGYdxv39/iHGmwAzccPJX/RjA==",
+  "dgSpecHash": "AybTiieHpyl/pWyk0W1JQU26wusfDbGzn8h4SdbSXRQRBPtipqemiObkyvkWVFiKyTYaa3mrsIub2WvywvI8xw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Fierce\\source\\repos\\JediAPI\\JediAPI\\JediAPI.csproj",
+  "projectFilePath": "C:\\Users\\Fierce\\Documents\\GitHub\\JediNotesAPI\\JediAPI\\JediAPI\\JediAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Fierce\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Fierce\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

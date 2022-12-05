@@ -54,7 +54,7 @@ namespace JediAPI.Controllers
             if (jedi.Count > 0)
                 return Ok(jedi);
             else
-                return Ok("The are no jedi found.");
+                return Ok("The are no jedi notes found.");
         }
 
         [HttpPost]
@@ -95,11 +95,11 @@ namespace JediAPI.Controllers
                 dbContext.JediNotes.Remove(jedi);
                 await dbContext.SaveChangesAsync();
 
-                return Ok(string.Format("Jedi with id {0} has been deleted.", id));
+                return Ok(string.Format("Jedi note with id {0} has been deleted.", id));
             }
             else
             {
-                return NotFound(string.Format("Jedi with id {0} does not exist.", id));
+                return NotFound(string.Format("Jedi note with id {0} does not exist.", id));
             }
         }
 
@@ -119,7 +119,7 @@ namespace JediAPI.Controllers
 
                 await dbContext.SaveChangesAsync();
 
-                return Ok("Jedi has been updated");
+                return Ok("Jedi note has been updated");
             } else
             {
                 return NotFound();
